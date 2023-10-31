@@ -46,5 +46,5 @@ user about the outcome of the deletion.
 - Create the button code to trigger the
 handleDeleteHabit function when clicked
 and disable it if the habit's goalDays
-is greater than 0.
+is greater than 0
 
